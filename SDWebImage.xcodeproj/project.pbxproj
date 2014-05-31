@@ -291,6 +291,7 @@
 		A18A6CC6172DC28500419892 /* UIImage+GIF.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIImage+GIF.m"; sourceTree = "<group>"; };
 		ABBE71A518C43B4D00B75E91 /* UIImageView+HighlightedWebCache.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIImageView+HighlightedWebCache.h"; sourceTree = "<group>"; };
 		ABBE71A618C43B4D00B75E91 /* UIImageView+HighlightedWebCache.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIImageView+HighlightedWebCache.m"; sourceTree = "<group>"; };
+		FFFD1B2D193A3BBD00CB4C0F /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -330,6 +331,7 @@
 		53922D64148C55810056699D = {
 			isa = PBXGroup;
 			children = (
+				FFFD1B2D193A3BBD00CB4C0F /* README.md */,
 				53922D74148C55820056699D /* SDWebImage */,
 				53922D71148C55820056699D /* Frameworks */,
 				53922D70148C55820056699D /* Products */,
